@@ -124,6 +124,7 @@ class ImtelaIslam:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtela-islam/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imtela04)
+[![Email](https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:imtela@gmail.com)
 
 </div>
 
