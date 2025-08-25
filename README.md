@@ -13,7 +13,7 @@ I'm a passionate developer and researcher from **Dhaka, Bangladesh**, with a kee
 - 🌱 **Currently Learning**: Advanced deep learning architectures and full-stack development
 - 🎯 **Goals**: Contributing to open-source ML projects and building impactful web applications
 - 📍 **Location**: Dhaka, Bangladesh
-- 💼 **Connect**: [LinkedIn](https://www.linkedin.com/in/imtela-islam/)
+- 💼 **Connect**: [LinkedIn](https://www.linkedin.com/in/imtela-islam/) [Email](mailto:imtela@gmail.com)
 
 ## 🛠️ Tech Stack
 
