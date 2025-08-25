@@ -77,7 +77,6 @@ Comprehensive CSS exercises and solutions covering modern styling techniques, an
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Imtela04&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
