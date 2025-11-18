@@ -71,7 +71,7 @@ Comprehensive CSS exercises and solutions covering modern styling techniques, an
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imtela04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtela04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtela04&hide=jupyter%20notebook&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
