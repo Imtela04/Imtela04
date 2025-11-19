@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Imtela Islam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Speech+Emotion+Recognition+Researcher;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Speech+Emotion+Recognition+Researcher;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -13,7 +13,8 @@ I'm a passionate developer and researcher from **Dhaka, Bangladesh**, with a kee
 - 🌱 **Currently Learning**: Advanced deep learning architectures and full-stack development
 - 🎯 **Goals**: Contributing to open-source ML projects and building impactful web applications
 - 📍 **Location**: Dhaka, Bangladesh
-- 💼 **Connect**: [LinkedIn](https://www.linkedin.com/in/imtela-islam/) [Email](mailto:imtela@gmail.com)
+- 🏆 **LeetCode**: [imtela04](https://leetcode.com/u/imtela04/)
+- 💼 **Connect**: [LinkedIn](https://www.linkedin.com/in/imtela-islam/) | [Email](mailto:imtela@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -42,13 +43,37 @@ I'm a passionate developer and researcher from **Dhaka, Bangladesh**, with a kee
 
 ## 🔥 Featured Projects
 
-### 🎤 [Speech Emotion Recognition System](https://github.com/Imtela04/SER-Clustering-and-Deep-Learning)
+### 🎤 [Speech Emotion Recognition System](https://github.com/Imtela04/SER-Clustering-and-Deep-Learning-Approach-to-Detect-Conflicting-Emotions-through-Vocal-Expressions)
 > **Advanced ML Research Project**
 
 A comprehensive research implementation combining **clustering algorithms** and **deep learning** to detect conflicting emotions in vocal expressions. This project addresses the complex challenge of understanding human emotions through speech patterns.
 
 **🔧 Technologies:** Python, TensorFlow, Keras, Audio Processing, Clustering Algorithms  
 **🎯 Focus Areas:** Signal Processing, Neural Networks, Emotion Classification, Data Analysis
+
+### 🐦 [Disaster Tweet Classification](https://github.com/Imtela04/Disaster-Tweet-Classification)
+> **NLP & Deep Learning Project**
+
+A natural language processing project that uses three recurrent neural network architectures (RNN, LSTM, GRU) to classify tweets and determine whether they're about real natural disasters. Implements advanced text processing and deep learning techniques for social media analysis.
+
+**🔧 Technologies:** Python, TensorFlow, Keras, NLP, RNN/LSTM/GRU  
+**🎯 Focus Areas:** Natural Language Processing, Text Classification, Social Media Analytics
+
+### 🏠 [BashaLagbe - House Rental Platform](https://github.com/Imtela04/BashaLagbe)
+> **Full-Stack Web Application**
+
+A modern web-based house rental platform designed to help people find their ideal rental homes. Features include property listings, search functionality, and user-friendly interface for both landlords and tenants.
+
+**🔧 Technologies:** JavaScript, HTML5, CSS3, Web Development  
+**🎯 Skills Developed:** Full-Stack Development, Database Design, User Experience Design
+
+### 💻 [Competitive Programming Solutions](https://github.com/Imtela04/competitive-programming-solutions)
+> **Algorithm Practice Repository**
+
+A curated collection of solutions to competitive programming problems from LeetCode. Organized by difficulty level, this repository demonstrates problem-solving skills and algorithmic thinking across various data structures and algorithms.
+
+**🔧 Technologies:** Python, Algorithms, Data Structures  
+**🎯 Focus Areas:** Algorithm Optimization, Problem Solving, Code Efficiency
 
 ### 🍽️ [Recipe Collection Website](https://github.com/Imtela04/odin-recipes)
 > **Web Development Foundation**
@@ -94,7 +119,7 @@ class ImtelaIslam:
             "Open Source Contributions"
         ]
         self.learning_goals = {
-            "2025": ["Advanced Neural Networks", "React.js", "Node.js"],
+            "2025": ["Advanced Neural Networks", "React.js", "Node.js", "LeetCode Mastery"],
             "research": "Multimodal Emotion Recognition",
             "career": "ML Engineering & Research"
         }
@@ -123,6 +148,7 @@ class ImtelaIslam:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtela-islam/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imtela04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imtela04/)
 [![Email](https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:imtela@gmail.com)
 
 </div>
@@ -130,8 +156,6 @@ class ImtelaIslam:
 ---
 
 <div align="center">
-  
-**"Bridging the gap between human emotions and machine understanding, one algorithm at a time."**
 
 ⭐ **Feel free to explore my repositories and reach out for collaborations!** ⭐
 
